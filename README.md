@@ -1,5 +1,10 @@
 # Customer Segmentation
 
+## Streamlit App Link
+```
+https://customer-segmentation-az.streamlit.app/
+```
+
 ## Project Overview
 
 Customer Segmentation is a data analytics and machine learning project that groups customers into distinct segments based on their demographic information, purchasing behavior, and spending patterns.
